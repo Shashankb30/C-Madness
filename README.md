@@ -1,3 +1,3 @@
 # C-Madness
-I Dont KNow Tbh why is this<br>
+Mate Why you here<br>
 <i> 2nd sem Final Project </i>
