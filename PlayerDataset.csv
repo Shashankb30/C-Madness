@@ -1,0 +1,46 @@
+Country,League,Club,Name,Matches Played,Goals,Assists,Minutes Played,xG,Position,Ratings
+Argentina,La Liga,PSG,Lionel Messi,32,37,25,2910,26.65,RW,9.40
+Brazil,Ligue 1,PSG,Neymar,30,13,20,2694,13.33,LW,9.40
+Egypt,Premier League,Liverpool,Mohamed Salah,29,15,24,2567,11.62,RW,9.10
+Netherlands,Premier League,Liverpool,Virgil Van Dijk,38,7,6,3190,8.20,CB,9.08
+Netherlands,Bundesliga,Bayern Munchen,Arjen Robben,21,13,18,1882,4.95,RW,9.00
+England,Premier League,Tottenham,Harry Kane,29,29,14,2636,18.87,ST,8.90
+Belguim,Serie A,Roma,Romelu Lukaku,36,25,2,3448,18.15,ST,8.90
+Portugal,La Liga,Real Madrid,Cristiano Ronaldo,33,25,12,2634,24.68,ST,8.90
+Sweden,Premier League,Man Utd,Zlatan Ibrahimovic,27,17,4,2578,15.74,ST,8.90
+Spain,La Liga,Real Madrid,Isco,18,10,5,1690,3.91,CM,8.90
+Brazil,Premier League,Liverpool,Alison Becker,32,0,2,3321,0.30,GK,8.87
+South Korea,Premier League,Tottenham,Son Heung-Min,23,14,15,2174,7.32,LW,8.70
+Brazil,Premier League,Liverpool,Roberto firmino,34,11,17,3228,10.87,CF,8.70
+France,La Liga,Atletico Madrid,Antoine Griezmann,31,16,12,3129,11.86,CF,8.60
+England,Premier League,Liverpool,Trent Alexander Arnold,32,10,11,2981,17.40,RB,8.60
+Belguim,Premier League,Man City,Kevin De Bruyne,35,15,19,2180,10.23,CM,8.50
+Belgium,La Liga,Real Madrid,Thibhaut Courtious,32,0,0,3200,0.30,GK,8.20
+Argentina,Ligue 1,PSG,Angel Di Maria,34,25,17,2809,18.45,CAM,8.10
+England,Premier League,Man City,Kyle Walker,37,3,8,3072,8.69,RB,8.10
+Poland,Bundesliga,Bayern Munchen,Robert Lewandowski,31,30,19,2871,30.52,ST,8.00
+Gabon,Premier League,Arsenal,Pierre-Emerick Aubameyang,31,31,11,2894,28.94,ST,7.90
+France,Serie A,AC Milan,OLiver Giroud,11,12,6,1311,6.90,ST,7.90
+Uruguay,La Liga,Atletico Madrid,Luis Suarez,34,28,14,2940,23.21,CF,7.80
+Argentina,Ligue 1,PSG,Mauro Icardi,34,24,16,3188,19.13,CF,7.80
+Chile,Serie A,Inter Milan,Alexis Sanchez,36,24,16,3385,19.24,CF,7.80
+Italy,Serie A,Napoli,Lorenzo Insigne,35,18,9,3031,13.08,ST,7.80
+England,Premier League,Tottenham,Dele Alli,35,18,11,3182,15.07,CAM,7.80
+Spain,La Liga,Villarreal,Gerard Moreno,37,13,12,3361,8.49,CDM,7.80
+Scotland,Premier League,Liverpool,Andy Robertson,33,7,18,3021,16.70,LB,7.80
+Argentina ,MLS,Inter Miami,Gonzalo Higuain,32,24,15,3138,17.84,ST,7.70
+England,Premier League,Leicester City,Jamie Vardy,33,13,10,2938,9.28,ST,7.60
+Senegal,Premier League,Liverpool,Sadio Mane,26,13,19,2347,9.14,LW,7.60
+Spain,La Liga,Barcalona,Pedri Gonzalez,31,11,16,2298,19.30,CM,7.60
+Portugal,Premier League,Man City,Joao Cancelo,32,8,12,2291,12.30,LB,7.60
+France,Seria A,AC Milan,Theo Hernandez,29,8,14,2297,15.30,LB,7.50
+England,Premier League,Man Utd,Harry Maguire,30,4,4,3002,6.70,CB,7.10
+Germany,Premier League,Tottenham,Timo Werner,28,21,5,2496,12.61,CF,6.90
+Spain,La Liga,Celta Vigo,Iago Aspas,25,19,2,2354,13.88,CAM,6.70
+Spain,La Liga,Atletico Madrid,Morata,14,15,3,1392,9.67,CF,6.70
+Argentina,Premier League,Man City,Sergio Aguero,25,21,10,2444,22.38,CF,6.60
+Bosnia,Serie A,Roma,Edin Dzeko,33,29,14,3194,30.60,ST,5.60
+Brazil,La Liga,Barcalona,Philippe Coutinho,28,13,13,2327,9.31,CAM,5.60
+France,Ligue 1,AS Monaco,Wissam Ben Yedder,20,11,6,1735,7.85,ST,4.50
+Germany,Bundesliga,Bayern Munchen,Serge Gnabry,23,11,7,2028,5.76,LW,4.50
+Spain,La Liga,Barcalona,Ss,21,12,2,2,2.00,CF,0.00
