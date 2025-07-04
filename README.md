@@ -8,5 +8,5 @@ Make sure you download gcc from https://gcc.gnu.org/install/index.html<br>
 ./a.exe (Windows) or ./a.out 
 </i>
 <br>
-
- <u>Author :-  Shashank B Jain</u> 
+<br>
+ <b>Author :-  Shashank B Jain</b> 
