@@ -1,3 +1,10 @@
 # C-Madness
-Mate Why you here btw this is my<br>
-<i> 2nd sem Final Project </i>
+People who love playing with stats her's a projects which you have enjoy <br>
+Any issues in code feel free to add a pull request <br>
+Make sure you download gcc from https://gcc.gnu.org/install/index.html<br>
+# Commands to run it:-
+<br>
+<i>gcc main.c player.c <br>
+./a.exe (Windows) or ./a.out 
+</i>
+ <u>Author - Shashank B Jain</u> 
