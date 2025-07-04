@@ -7,4 +7,6 @@ Make sure you download gcc from https://gcc.gnu.org/install/index.html<br>
 <i>gcc main.c player.c <br>
 ./a.exe (Windows) or ./a.out 
 </i>
- <u>Author - Shashank B Jain</u> 
+<br>
+<br>
+ <b>Author :-  Shashank B Jain</b> 
